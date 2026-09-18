@@ -1,4 +1,3 @@
-Markdown
 # 11501_CS203A
 
 ## Course information
